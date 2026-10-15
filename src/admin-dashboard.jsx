@@ -1,1 +1,1 @@
-print("This is admin dashboard");
+print("This admin dashboard is old.");
