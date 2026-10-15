@@ -4,7 +4,7 @@ import { useAuth } from "../context/AuthContext";
 
 const SERVICES = ["Babysitting", "Newborn Care", "Elderly Care", "Special Needs Care", "Tutoring", "Housekeeping"];
 const LANGUAGES = ["Urdu", "English", "Punjabi", "Sindhi", "Pashto"];
-const CITIES = ["Lahore", "Islamabad", "Karachi", "Rawalpindi", "Faisalabad"];
+
 
 const BACKGROUNDS = [
   { id: "fresher", icon: "🌱", title: "Fresher", text: "New to caregiving, no formal training" },
